@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I'm Tyler!  
 
-<!--
-**rtylerrush/rtylerrush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Tyler Rush** — a data analyst pivoting into the **Cybersecurity space** after experiencing my own personal cyber-attack. That event sparked my drive to help organizations strengthen their defenses and stop threats before they happen.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Cybersecurity Projects
+- 🔐 **Microsoft Azure SOC Environment + Honeypot**  
+  Built a cloud-based SOC environment in Azure with Sentinel and log analytics, deployed a honeypot VM, and integrated threat intelligence for enrichment.  
+- 🧑‍💻 **Active Directory Project**  
+  Designed and implemented an on-prem AD lab with users, groups, and GPOs, simulating real-world enterprise identity management.  
+
+---
+
+## 🎓 Education
+- 🎓 **M.S. Cybersecurity and Information Assurance** – *Western Governors University* (Graduating Dec 2025)  
+- 🎓 **B.B.A. Management** – *University of Kentucky* (2020)  
+- 💻 **60 credit hours of Software Engineering coursework** – *WGU*  
+
+---
+
+## 📜 Certifications
+- 🛡️ **CompTIA PenTest+** *(Expected Sept 2025)*  
+- 🔎 **CompTIA CySA+ (Cybersecurity Analyst)**  
+- ☁️ **AWS Certified Cloud Practitioner**  
+- 🛠️ **AXELOS ITIL v4 Foundations**  
+- 🌐 **WGU Front-End Developer**  
+
+---
+
+## 🤝 Let’s Connect
+I’m always looking to learn, grow, and connect with other professionals in the cybersecurity space.  
+👉 [**Connect with me on LinkedIn**](https://www.linkedin.com/in/rtylerrush/)  
+
+---
