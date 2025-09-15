@@ -6,7 +6,7 @@ My name is **Tyler Rush** — a data analyst pivoting into the **Cybersecurity s
 
 ## 🛡️ Cybersecurity Projects
 - 🔐 **Microsoft Azure SOC Environment + Honeypot**  
-  Built a cloud-based SOC environment in Azure with Sentinel and log analytics, deployed a honeypot VM, and integrated threat intelligence for enrichment.  
+  Built a cloud-based SOC environment in Azure with Sentinel and Log Analytics Workspace, deployed a honeypot VM, integrated threat intelligence for enrichment, and connected a JSON-formatted world map for a dynamic view of malicious IP geo locations.  
 - 🧑‍💻 **Active Directory Project**  
   Designed and implemented an on-prem AD lab with users, groups, and GPOs, simulating real-world enterprise identity management.  
 
